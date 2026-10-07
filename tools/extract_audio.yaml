@@ -1,6 +1,6 @@
 identity:
   name: extract_audio
-  author: stvlynn
+  author: William-Cai
   label:
     en_US: Extract Audio
     zh_Hans: 提取音频

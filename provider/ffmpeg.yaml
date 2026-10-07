@@ -1,5 +1,5 @@
 identity:
-  author: stvlynn
+  author: William-Cai
   name: ffmpeg
   label:
     en_US: FFmpeg
@@ -16,6 +16,7 @@ tools:
   - tools/video_trim.yaml
   - tools/video_compress.yaml
   - tools/extract_audio.yaml
+  - tools/concat_videos.yaml
 extra:
   python:
     source: provider/ffmpeg.py 

@@ -1,6 +1,6 @@
 # FFmpeg Plugin for Dify
 
-**Author:** [stvlynn](https://github.com/stvlynn)
+**Author:** [William-Cai](https://github.com/William-Cai)
 **Version:** 0.0.1
 **Type:** tool
 
